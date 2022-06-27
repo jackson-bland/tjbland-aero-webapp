@@ -173,10 +173,10 @@ def newton_calculate(func, symbol, initial, variables = [[],[]], tolerance = 10E
             graph.axhline(0,color='black',linewidth=1)
             graph.grid()
             graph.legend(bbox_to_anchor=(1, 1), loc=1, borderaxespad=0)
-            plt.savefig('Personal Website/static/images/newton_plot.jpeg')
+            plt.savefig('static/images/newton_plot.jpeg')
             return fig
         else:
-            plt.savefig('Personal Website/templates/newton_plot.jpeg')
+            plt.savefig('static/images/newton_plot.jpeg')
             return fig
 
     iteration = 0
