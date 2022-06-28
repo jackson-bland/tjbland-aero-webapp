@@ -18,7 +18,6 @@ app.py
 # Viewing the Webapp
 Go to `http://127.0.0.1:5000`
 
-# Features
 ## Calculators
 ### Newton Method Calculator
 For those unfamiliar, below is the equation for the simple root finding algorithm known as Newtons Method
