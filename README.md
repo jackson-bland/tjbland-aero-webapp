@@ -3,6 +3,14 @@ My aim with this webapp was to expand on pieces of code that I have written whil
 
 I also wanted to be able to write down an overview of my college career and what I experienced in each class, while providing a broader dive into my resume bullet points.
 # Running the Webapp
+First, I am new to Github so there is probably a cleaner way to do this but below are the required libraries to fun these files.
+```py
+numpy
+io
+flask
+matplotlib
+sympy
+```
 I plan to eventually turn this into an actual webpage though I am unsure what I want the domain name to be. You can clone the repository using github and run 
 ```bash
 app.py 
